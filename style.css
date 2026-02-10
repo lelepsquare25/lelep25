@@ -17,7 +17,8 @@ nav a{
 header{
     text-align: center;
     box-shadow: 0px 0px 5px;
-    background-color:rgb(255, 249, 171)
+    background: #e8e156;
+background: linear-gradient(180deg,rgba(232, 225, 86, 1) 32%, rgba(235, 228, 136, 1) 81%);
 }
 nav{
     padding: 10px
