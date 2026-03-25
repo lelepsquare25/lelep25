@@ -99,7 +99,7 @@ section.profile{
     
 }
 .cardProfile{
-    background-color: rgb(255, 179, 0);
+    background: linear-gradient(to right, rgb(69, 3, 113), rgb(129, 20, 187), rgb(71, 3, 98));
     padding: 15px;
     width:300px;
     margin: auto;
@@ -120,6 +120,7 @@ img{
     text-decoration: none;
     padding: 10px 10px;
     font-size: 24px;
+    color: aliceblue;
 
 }
 section.howto{
@@ -130,11 +131,11 @@ section.howto{
     background-image: url(BG4.png);
     color: aliceblue;
     font-family: 'Bebas Neue';font-size: 30px;
+    position: relative; 
 }
 .howto img{
-
-    height: 500px;
-    width: 200px;
+    height: 600px;
+    width: 450px;
 }
 .deskHowto{
     display: flex;
@@ -143,4 +144,12 @@ section.howto{
 }
 .dokumentasi{
     margin:20px;
+}
+.HOWTO-kanan{
+   position: absolute;
+  right: 20px;  
+  top: 100px;   
+  width: 400px;
+  height: auto;
+  max-width: none;
 }
