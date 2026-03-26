@@ -102,6 +102,7 @@ section.profile{
     background: linear-gradient(to right, rgb(69, 3, 113), rgb(129, 20, 187), rgb(71, 3, 98));
     padding: 15px;
     width:300px;
+    height: 570px;
     margin: auto;
     text-align: center;
 }
